@@ -1,5 +1,7 @@
 # 🧠 Investor Bias Quiz
 
+**🚀 [Try the live app here](https://aditi-investor-bias-quiz.streamlit.app)**. No installation needed, it opens in your browser.
+
 A behavioural-finance quiz that combines psychology with personal finance.
 People answer 10 everyday money scenarios. The app shows which well-known **cognitive biases**
 they display, explains each one in plain language with a practical tip, and gives a
